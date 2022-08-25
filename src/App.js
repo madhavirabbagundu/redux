@@ -3,6 +3,7 @@ import './App.css';
 import Todo  from './Components/Todo'
 import Count from './Components/Count'
 import State from './Components/State';
+import List from './Components/List'
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <Count />
       <Todo />
       <State />
-      
+      <List />
     </div>
   );
 }
