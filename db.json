@@ -1,0 +1,60 @@
+{
+  "data1": [
+    {
+      "id": 1,
+      "name": "madhavi",
+      "lastname": "rabbagundu",
+      "number": 2345,
+      "email": "madhavi@gmail.com",
+      "password": "dfnmdsnf"
+    },
+    {
+      "name": "chaithu",
+      "lastname": "kumar",
+      "email": "chaithu@gmail.com",
+      "password": "233434",
+      "number": "1234",
+      "id": 2
+    },
+    {
+      "name": "chaithu",
+      "lastname": "kumar",
+      "email": "chaithu@gmail.com",
+      "password": "233434",
+      "number": "1234",
+      "id": 3
+    },
+    {
+      "name": "mouni",
+      "lastname": "kumar",
+      "email": "mouni@gmail.com",
+      "password": "233434",
+      "number": "1234",
+      "id": 4
+    },
+    {
+      "name": "bharu",
+      "lastname": "kumar",
+      "email": "",
+      "password": "",
+      "number": "",
+      "id": 5
+    },
+    {
+      "name": "bharu",
+      "lastname": "kumar",
+      "email": "madhavi_pw2_143@masai.school",
+      "password": "rgsdf",
+      "number": "23480148093",
+      "id": 6
+    },
+    {
+      "name": "swetha",
+      "lastname": "kummari",
+      "email": "madhavi_pw2_143@masai.school",
+      "password": "dfadfd",
+      "number": "3493940",
+      "id": 7
+    }
+  ]
+}
